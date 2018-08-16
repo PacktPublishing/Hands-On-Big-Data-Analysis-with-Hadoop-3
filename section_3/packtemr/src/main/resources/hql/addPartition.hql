@@ -1,0 +1,1 @@
+ALTER TABLE analytics.page_view ADD PARTITION (update_date='2017-11-03') LOCATION "hdfs://page_view/2017/11/03"
