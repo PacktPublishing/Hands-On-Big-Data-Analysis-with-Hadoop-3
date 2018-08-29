@@ -25,6 +25,7 @@ Finally, you'll learn how to extend your analytics solutions to the cloud.
 To fully benefit from the coverage included in this course, you will need:<br/>
 <LI>Basic knowledge of the Hadoop ecosystem 
 <LI>Java programming knowledge 
+  
 ### Technical Requirements
 This course has the following software requirements:<br/>
 <LI>modern laptop/cpu
