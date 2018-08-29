@@ -12,19 +12,13 @@ Finally, you'll learn how to extend your analytics solutions to the cloud.
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Explore the Hadoop big data Ecosystem in a nutshell&nbsp; 
-<LI>Process payment data from an event stream using the streaming API: Payment Analyzer&nbsp; 
-<LI>Detect BOT traffic using Spark Streaming, make log data queryable, and investigate customer data 
-<LI>Supply Chain analysis - find top-seller items in a streaming way, enhance top-seller items 
-<LI>Analyze Customer churn amounts quantitatively with DataFrame queries 
-<LI>Perform IoT sensor data analysis with device response to system failures and data streams 
-<LI>High-performance computation with neighborhood aggregations 
-<LI>Page ranking using Spark GraphX 
-<LI>Threat Analysis – Analyzing weblogs for suspicious activity and anomalies in network traffic 
-<LI>Extract information from unstructured text via Spark DataFrames 
-<LI>Perform sentiment analysis of posts using Logistic Regression, and find the author of a post 
-<LI>Find what product users want to buy using Cloudera Sandbox Toolkit 
-<LI>Use movie history to suggest content, and test and experiment with Recommendation Enginec </LI></UL></DIV>
+<LI>Store data with HDFS and learn in detail about HBase
+<LI> Share and access data in a SQL-like interface for HDFS
+<LI> Analyze real-time events using Spark Streaming
+<LI> Perform complex big data analytics using MapReduce
+<LI> Analyze data to perform complex processing with Hive and Pig
+<LI> Explore functional programming using Spark
+<LI> Learn to import data using Sqoop </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
